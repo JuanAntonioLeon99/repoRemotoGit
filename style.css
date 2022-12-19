@@ -1,20 +1,28 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-body{
+
+body {
     background-color: darkseagreen;
-    }
-    h1.titulo{
+}
+
+h1.titulo {
     background-color: crimson;
     color: white;
     border: 1px solid yellowgreen;
-    }
-    body{
-        background-color: #3a3d47;
-        }
-        h1.titulo{
-        background-color: #1551a1;
-        color: white;
-        border: 1px solid yellow;
-        }
+}
+
+body {
+    background-color: #da924a;
+}
+
+h1.titulo {
+    background-color: #1551a1;
+    color: white;
+    border: 1px solid yellow;
+}
+
+img.nz {
+    width: 100%;
+}
